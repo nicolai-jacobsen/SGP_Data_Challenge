@@ -57,3 +57,8 @@ This project is aimed at analyzing the data from the SailGP event in Auckland 20
 ## Contact
 
 For any questions or inquiries, please contact [drey@sailgp.com], [sbabbage@sailgp.com].
+
+### My Comments
+- utils.py contains various helper functions for calculations
+- race_parser.py contains a class to parse and effectively retrieve the xml course data
+- My answers to the questions can be found in main.py 
